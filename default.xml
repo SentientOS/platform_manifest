@@ -94,7 +94,7 @@
   <project path="device/google/pantah-kernels/6.1" name="device_google_pantah-kernels_6.1" groups="device,cloudripper" clone-depth="1" remote="grapheneos" />
   <project path="device/google/raviole" name="device_google_raviole" groups="device,slider,pdk-gs-arm" remote="grapheneos" />
   <project path="device/google/raviole-kernels/6.1" name="device_google_raviole-kernels_6.1" groups="device,slider" clone-depth="1" remote="grapheneos" />
-  <project path="device/google/tangorpro" name="device/google/tangorpro" groups="device,tangorpro" />
+  <project path="device/google/tangorpro" name="device_google_tangorpro" groups="device,tangorpro" remote="grapheneos" />
   <project path="device/google/tangorpro-sepolicy" name="device/google/tangorpro-sepolicy" groups="device,tangorpro" />
   <project path="device/google/tangorpro-kernels/6.1" name="device/google/tangorpro-kernels/6.1" groups="device,tangorpro" clone-depth="1" />
   <project path="device/google/shusky" name="device/google/shusky" groups="device,ripcurrent,pdk-gs-arm" />
